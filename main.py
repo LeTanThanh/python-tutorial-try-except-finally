@@ -22,3 +22,12 @@ if __name__ == "__main__":
     print(error)
   finally:
     print("Finishing up.")
+
+  # Python try…finally statement
+
+  """
+  try:
+    # the code that may cause an exception
+  finally:
+    # the code that always executes
+  """
